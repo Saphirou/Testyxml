@@ -1,0 +1,13 @@
+c:\users\łukasz\documents\visual studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\bin\Debug\Baza Pacjentow.exe.config
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\obj\Debug\Baza Pacjentow.csprojResolveAssemblyReference.cache
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\obj\Debug\MainWindow.baml
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\obj\Debug\MainWindow.g.cs
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\obj\Debug\App.g.cs
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\obj\Debug\Baza Pacjentow_MarkupCompile.cache
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\obj\Debug\Baza Pacjentow.g.resources
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\obj\Debug\Baza_Pacjentow.Properties.Resources.resources
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\obj\Debug\Baza Pacjentow.csproj.GenerateResource.Cache
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\bin\Debug\Baza Pacjentow.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\bin\Debug\Baza Pacjentow.pdb
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\obj\Debug\Baza Pacjentow.exe
+C:\Users\Łukasz\Documents\Visual Studio 2013\Projects\Baza Pacjentow\Baza Pacjentow\obj\Debug\Baza Pacjentow.pdb
